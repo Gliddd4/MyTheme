@@ -44,7 +44,7 @@
         "INTERACTIVE_MUTED": [ "#242131" ],
         "INTERACTIVE_NORMAL": [ "#FFFFFF" ],
 		"MENTION_BACKGROUND": [ "#1E1B27" ],
-		"MENTION_FOREGROUND": [ "#978BC9" ],
+		"MENTION_FOREGROUND": [ "#1E1B27" ],
 		"TEXT_DANGER": [ "#5A91F7" ],
         "TEXT_LINK": [ "#5A91F6" ],
         "TEXT_NORMAL": [ "#FFFFFF" ],

@@ -96,8 +96,8 @@
 		"CONTEXT_MENU_BACKDROP_BACKGROUND":  [ "#0B0A0Eaa" ],
 		"STATUS_DANGER":  [ "#A385FF" ],
 		"REDESIGN_BUTTON_DANGER_BACKGROUND":  [ "#242131" ],
-		"STATUS_DANGER_TEXT":  [ "#BCADFA" ],
-		"STATUS_WARNING":  [ "#A385FF" ],
+		"STATUS_DANGER_TEXT":  [ "#1c9ad9" ],
+		"STATUS_WARNING":  [ "#d91cd6" ],
 		"BG_SURFACE_OVERLAY":  [ "#1C1C1E" ]
     },
     "rawColors": {

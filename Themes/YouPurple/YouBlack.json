@@ -50,7 +50,7 @@
 		"TEXT_DANGER": [ "#BCADFA" ],
         "TEXT_LINK": [ "#5A91F6" ],
         "TEXT_NORMAL": [ "#FFFFFF" ],
-        "TEXT_MUTED": [ "#FFFFFF" ],
+        "TEXT_MUTED": [ "#8D8D92" ],
         "TEXT_PRIMARY": [ "#FFFFFF" ],
         "THREAD_CHANNEL_SPINE": [ "#BCADFA" ],
         "BG_BASE_PRIMARY": [ "#000000" ],

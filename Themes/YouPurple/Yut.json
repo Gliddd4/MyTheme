@@ -35,7 +35,7 @@
         "CHANNELTEXTAREA_BACKGROUND": [ "#00ff00" ],
         "CHAT_BACKGROUND": [ "#151319" ],
         "EMBED_BACKGROUND": [ "#1C1C1E" ],
-		"FORUM_POST_TAG_BACKGROUND": [ "#00ff00" ],
+		"FORUM_POST_TAG_BACKGROUND": [ "#313135" ],
         "HEADER_PRIMARY": [ "#FFFFFF" ],
         "HEADER_SECONDARY": [ "#8D8D92" ],
         "INPUT_BACKGROUND": [ "#1E1B27" ],

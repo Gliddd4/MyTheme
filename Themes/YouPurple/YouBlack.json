@@ -47,7 +47,7 @@
         "INTERACTIVE_NORMAL": [ "#757575" ],
 		"MENTION_BACKGROUND": [ "#1E1B27" ],
 		"MENTION_FOREGROUND": [ "#978BC9" ],
-		"TEXT_DANGER": [ "#BCADFA" ],
+		"TEXT_DANGER": [ "#FFFFFF" ],
         "TEXT_LINK": [ "#BCADFA" ],
         "TEXT_NORMAL": [ "#FFFFFF" ],
         "TEXT_MUTED": [ "#8D8D92" ],

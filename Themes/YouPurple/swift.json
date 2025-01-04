@@ -41,7 +41,7 @@
                 "INPUT_BACKGROUND": [ "#1D1D1D" ],
                 "INTERACTIVE_ACTIVE": [ "FFFFFF" ],
         "INTERACTIVE_HOVER": [ "#008000" ],
-        "INTERACTIVE_MUTED": [ "#008000" ],
+        "INTERACTIVE_MUTED": [ "#8F8F8F" ],
                 "INTERACTIVE_NORMAL": [ "#FFFFFF" ],
         "MENTION_BACKGROUND": [ "#008000" ],
         "MENTION_FOREGROUND": [ "#008000" ],

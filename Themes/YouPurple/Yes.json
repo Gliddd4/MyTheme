@@ -11,7 +11,7 @@
     "semanticColors": {
                 "ANDROID_RIPPLE": [ "#3A3A3C" ], 
                 "BACKGROUND_FLOATING": [ "#1C1C1E" ],
-        "BACKGROUND_ACCENT": [ "#EB4E3D" ],
+        "BACKGROUND_ACCENT": [ "#2C2C2E" ],
         "BACKGROUND_MENTIONED": [ "EB4E3D" ],
         "BACKGROUND_MENTIONED_HOVER": [ "##1c9ad9" ],
         "BACKGROUND_MESSAGE_HOVER": [ "#1E1B27" ],
@@ -77,7 +77,7 @@
 	        "PANEL_BG":  [ "#000000" ],
 	        "TYPING_INDICATOR_BG":  [ "#1C1C1E" ],
 	"ALERT_BG":  [ "#0000FF" ],
-	"BUTTON_OUTLINE_DANGER_BORDER":  [ "#1C1C1E" ],
+	"BUTTON_OUTLINE_DANGER_BORDER":  [ "#EB4E3D" ],
 	"STATUS_DANGER":  [ "#1E1B27" ],
                 "BG_BRAND":  [ "#3B82F7" ],
 	        "LOGO_PRIMARY":  [ "#3B82F7" ],

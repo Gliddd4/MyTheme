@@ -30,7 +30,7 @@
                 "CARD_PRIMARY_BG": [ "#1C1C1E" ],
                 "CARD_PRIMARY_PRESSED_BG": [ "#2C2C2E" ],
                 "CARD_SECONDARY_BG": [ "#1C1C1E" ],
-        "CHANNEL_ICON": [ "#008000" ],
+                "CHANNEL_ICON": [ "#FFFFFF" ],
         "CHANNELS_DEFAULT": [ "#008000" ],
         "CHANNELTEXTAREA_BACKGROUND": [ "#008000" ],
                 "CHAT_BACKGROUND": [ "#151319" ],

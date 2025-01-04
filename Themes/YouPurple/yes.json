@@ -99,8 +99,8 @@
 	"BG_SURFACE_OVERLAY":  [ "#1C1C1E" ]
     },
     "rawColors": {
-        "PRIMARY_100": "#E3DEFD",
-        "PRIMARY_200": "#E3DEFD",
+        "PRIMARY_100": "FF8DA1",
+        "PRIMARY_200": "#FF8DA1",
         "PRIMARY_230": "#FFFFFF",
         "PRIMARY_300": "#FFFFFF",
         "PRIMARY_330": "#E3DEFDaa",
@@ -147,7 +147,7 @@
         "BRAND_630": "#484362",
         "BRAND_660": "#00ff00",
         "BRAND_700": "#00ff00",
-		"BRAND_730": "#2C2C2E",
+		"BRAND_730": "#FF8DA1",
         "GUILD_BOOSTING_BLUE": "#1C1C1E",
                 "GUILD_BOOSTING_BLUE_FOR_GRADIENTS": "#0000FF",
         "GUILD_BOOSTING_PINK": "#3B82F7",

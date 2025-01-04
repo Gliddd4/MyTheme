@@ -106,7 +106,7 @@
         "PRIMARY_330": "#E3DEFDaa",
         "PRIMARY_360": "#E3DEFD",
                 "PRIMARY_400": "#59585D",
-                "PRIMARY_460": "#0000FF",
+        "PRIMARY_460": "#0000FF",
         "PRIMARY_500": "#FFFFFF",
                 "PRIMARY_530": "#FF8DA1",
         "PRIMARY_600": "#1C1C1E",
@@ -228,7 +228,7 @@
                 "BLUE_600": "#ff0",
                 "BLUE_630": "#ff0",
                 "BLUE_660": "#ff0",
-        "BLUE_700": "#ff00ff",
+        "BLUE_700": "#3B82F7",
         "WHITE_630": "#E3DEFD",
 		"ROLE_DEFAULT": "#1C1C1E",
 		"BLACK_460": "#1C1C1E"

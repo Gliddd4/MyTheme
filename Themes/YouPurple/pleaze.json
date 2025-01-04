@@ -77,7 +77,7 @@
 	        "PANEL_BG":  [ "#000000" ],
 	        "TYPING_INDICATOR_BG":  [ "#1C1C1E" ],
 	"ALERT_BG":  [ "#1C1C1E" ],
-	"BUTTON_OUTLINE_DANGER_BORDER":  [ "#EB4E3D" ],
+	"BUTTON_OUTLINE_DANGER_BORDER":  [ "#0000FF" ],
 	"STATUS_DANGER":  [ "#1C1C1E" ],
                 "BG_BRAND":  [ "#3B82F7" ],
 	        "LOGO_PRIMARY":  [ "#3B82F7" ],

@@ -249,11 +249,6 @@
 		  "ic_selection_none_24px": "#484362",
           "ic_star_filled": "#BCADFA",
           "img_guild_folder": "#BCADFA",
-          "StatusMobileOnline": "#BCADFA",
-          "StatusOnline": "#BCADFA",
-          "StatusIdle": "#BCADFA",
-          "StatusDND": "#BCADFA",
-          "StatusOffline": "#484362",
 		  "StatusStreaming": "#BCADFA",
 		  "friends_toast_icon": "#BCADFA",
 		  "toast_copy_link": "#BCADFA",
@@ -267,10 +262,8 @@
 		  "PencilIcon": "#BCADFA",
 		  "SettingsIcon": "#BCADFA",
 		  "MagnifyingGlassIcon": "#BCADFA",
-		  "search": "#BCADFA",
 		  "MoreHorizontalIcon": "#BCADFA",
 		  "UserCheckIcon": "#BCADFA",
-		  "ic_send": "#BCADFA",
 		  "NitroWheelIcon": "#BCADFA"
             }
     },

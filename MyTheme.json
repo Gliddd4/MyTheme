@@ -233,11 +233,5 @@
 		"ROLE_DEFAULT": "#1C1C1E",
 		"BLACK_460": "#1C1C1E"
     },
-    "plus": {
-        "version": "0",
-        "iconpack": "MaterialTwoTone",
-        "mentionLineColor": "#BCADFA",
-        "customOverlays": true
-},
 "spec": 2
 }

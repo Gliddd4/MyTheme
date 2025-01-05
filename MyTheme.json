@@ -12,7 +12,7 @@
                 "ANDROID_RIPPLE": [ "#3A3A3C" ], 
                 "BACKGROUND_FLOATING": [ "#1C1C1E" ],
                 "BACKGROUND_ACCENT": [ "#2C2C2E" ],
-        "BACKGROUND_MENTIONED": [ "EB4E3D" ],
+        "BACKGROUND_MENTIONED": [ "0000FF" ],
         "BACKGROUND_MENTIONED_HOVER": [ "#1c9ad9" ],
         "BACKGROUND_MESSAGE_HOVER": [ "#1C1C1E" ],
                 "BACKGROUND_MODIFIER_ACCENT": [ "#1C1C1E" ], 

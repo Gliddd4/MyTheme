@@ -1,2 +1,2 @@
 # MyTheme
-A SwiftUI based Revenge theme for discord. Report bugs to @gliddd4 on discord
+A revenge theme based off the iOS settings app color scheme
